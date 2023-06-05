@@ -1,0 +1,542 @@
+/* HEDER */
+.header {
+  border-bottom: 1px solid #d6d6d6;
+  width: 1920px;
+  height: 85px;
+}
+.header h1 {
+  margin-left: 274px;
+  color: #01996d;
+  float: left;
+}
+.menu {
+  height: 24px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 172px;
+  margin-right: 283px;
+  float: left;
+}
+.header a {
+  display: block;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #292929;
+  text-decoration: none;
+  padding-right: 31px;
+  padding-left: 31px;
+  float: left;
+  border-radius: 5px;
+}
+.header a:hover {
+  color: white;
+  background-color: #01996d;
+}
+.sign {
+  display: inline-block;
+}
+.sign1 {
+  display: inline-block;
+}
+.trial {
+  margin: 13 50 13 50;
+  color: white;
+}
+.sign1 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  margin-right: 35px;
+  color: #000000;
+  font-weight: bold;
+}
+.butom {
+  margin-top: 17px;
+  margin-bottom: 17px;
+  background: #01996d;
+  border: 1px solid #01996d;
+  border-radius: 4px;
+}
+.butom:hover {
+  background: #484848;
+}
+.trial {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+/* PART1 */
+.box1 {
+  position: relative;
+  width: 1920px;
+  height: 895px;
+  background-image: url(./BOX5.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.headline {
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 275px;
+}
+.headline h1 {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 74px;
+  color: #01996d;
+  margin-top: 0px;
+}
+.headline h4 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 31px;
+  color: #484848;
+}
+.box1but {
+  background: #01996d;
+  border: 1px solid #01996d;
+  border-radius: 4px;
+  width: 227px;
+  height: 65px;
+}
+.box1but:hover {
+  background: #484848;
+}
+.buttex {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+/* PART2 */
+.box2 {
+  box-sizing: border-box;
+
+  width: 1413px;
+  height: 1386px;
+  margin-left: 275px;
+  margin-top: 169px;
+}
+.how_it h3 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 157%;
+  color: #424242;
+  margin: 0;
+}
+.how_it h1 {
+  float: left;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 157%;
+  color: #01996d;
+  margin-top: 0px;
+}
+.how_it h4 {
+  display: inline-block;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424242;
+  margin-left: 136px;
+}
+.box2_1 {
+  position: absolute;
+  width: 390px;
+  height: 937px;
+  left: 275px;
+  top: 1395px;
+}
+.box2_2 {
+  position: absolute;
+
+  width: 392px;
+  height: 854px;
+  left: 760px;
+  top: 1682px;
+}
+.box2_3 {
+  position: absolute;
+  width: 441px;
+  height: 856px;
+  left: 1247px;
+  top: 1449px;
+}
+/* block1 */
+.per1 {
+  width: 269px;
+  height: 225px;
+}
+.per1 h1 {
+  float: right;
+  display: inline-block;
+  margin-left: 88px;
+  margin-top: 135px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 150%;
+  color: #000000;
+}
+.per1 p {
+  position: absolute;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 150%;
+  color: rgba(1, 153, 109, 0.2);
+  display: inline-block;
+  margin: 0;
+}
+.rep1 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424242;
+}
+.pict1 {
+  margin-top: 49px;
+  width: 390px;
+  height: 492px;
+  background-image: url(./02.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 12px;
+}
+/* block2 */
+.per2 {
+  width: 392px;
+  height: 225px;
+}
+.per2 h1 {
+  float: right;
+  display: inline-block;
+  margin-left: 79px;
+  margin-top: 135px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 150%;
+  color: #000000;
+}
+.per2 p {
+  position: absolute;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 150%;
+  color: rgba(1, 153, 109, 0.2);
+  display: inline-block;
+  margin: 0;
+}
+.rep2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424242;
+}
+.pict2 {
+  margin-top: 37px;
+  width: 390px;
+  height: 480px;
+  background-image: url(./Безымянный.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: 100%;
+  border-radius: 12px;
+}
+/* block3 */
+.per3 {
+  width: 226px;
+  height: 225px;
+}
+.per3 h1 {
+  float: right;
+  display: inline-block;
+  margin-left: 79px;
+  margin-top: 135px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 150%;
+  color: #000000;
+}
+.per3 p {
+  position: absolute;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 150%;
+  color: rgba(1, 153, 109, 0.2);
+  display: inline-block;
+  margin: 0;
+}
+.rep3 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #424242;
+}
+.pict3 {
+  margin-top: 48px;
+  width: 390px;
+  height: 480px;
+  background-image: url(./Безымянный1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: 100%;
+  border-radius: 12px;
+}
+/* part 3 */
+.box3 {
+  position: relative;
+  width: 1920px;
+  height: 922px;
+  background: #245852;
+}
+.headline3 {
+  position: absolute;
+  margin-top: 310px;
+  margin-left: 207px;
+}
+.headline3 h1 {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 157%;
+  color: #ffffff;
+}
+.headline3 h4 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 157%;
+  color: #ffffff;
+}
+.box3but {
+  background: #01996d;
+  border: 1px solid #01996d;
+  border-radius: 4px;
+  width: 227px;
+  height: 65px;
+}
+.box3but:hover {
+  background: #484848;
+}
+.buttex3 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+.box3 video {
+  width: 895.84px;
+  height: 516.11px;
+  margin-top: 229px;
+  margin-left: 818px;
+}
+/* part4 */
+.box4 {
+  width: 1370px;
+  height: 648px;
+  margin-top: 120px;
+  margin-left: 275px;
+  margin-bottom: 168px;
+}
+.prod {
+  position: absolute;
+  min-width: 584px;
+  min-height: 413px;
+  margin-left: 785px;
+}
+.prod h3 {
+  margin: 0px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 157%;
+  color: #424242;
+}
+.prod h1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 157%;
+  color: #01996d;
+}
+.prod h4 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 31px;
+  color: #484848;
+}
+.box4but {
+  background: #01996d;
+  border: 1px solid #01996d;
+  border-radius: 4px;
+  width: 227px;
+  height: 65px;
+}
+.box4but:hover {
+  background: #484848;
+}
+.buttex4 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.imgbig {
+  position: absolute;
+  width: 638.69px;
+  height: 573.26px;
+  z-index: 10;
+  padding-left: 56px;
+}
+.imgbig img {
+  width: 638.69px;
+  height: 573.26px;
+}
+.cardbox {
+  box-shadow: 0px 3.62249px 18.1125px rgba(165, 165, 165, 0.25);
+  position: relative;
+  width: 296.14px;
+  height: 293.9px;
+  z-index: 45;
+  background-color: white;
+  border-radius: 10px;
+  top: 353px;
+}
+.cardbox h2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.49px;
+  line-height: 157%;
+  text-align: center;
+  color: #000000;
+  margin-top: 22.64px;
+  margin-bottom: 7px;
+  padding-top: 22.64px;
+}
+.border {
+  text-align: center;
+}
+.cardbox img {
+  width: 57.44px;
+  height: 57.44px;
+}
+.centrimg {
+  display: block;
+  margin: 13.7 auto;
+}
+.cardbox h5 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11.9351px;
+  line-height: 157%;
+  color: #000000;
+  text-align: center;
+}
+.cardbox h1 {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15.9292px;
+  line-height: 157%;
+  color: #000000;
+  text-align: center;
+}
+.cardbox ul {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.6195px;
+  line-height: 157%;
+  color: #000000;
+  margin-left: 30px;
+}
+.cardbox li {
+  margin-bottom: 15px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10.6195px;
+  line-height: 157%;
+  color: #000000;
+}
+/* part5 */
+.footer {
+  border: 1px solid black;
+  width: 1920px;
+  height: 654px;
+  background: #245852;
+  padding-left: 275px;
+  padding-top: 95px;
+}
+.footer h1 {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 55px;
+  color: #ffffff;
+  line-height: 90px;
+}
+.footer h2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+  line-height: 90px;
+}
